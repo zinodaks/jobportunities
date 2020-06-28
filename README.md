@@ -1,6 +1,6 @@
 # Jobportunities Software Architecture
 
-A software design document that outlines the architecture for a concept of a system for a company that job seekers turn to for jobs. The system is supposed to ease the work of the company in question as well as facilitate finding jobs for job seekers. 
+A software design document that outlines the architecture for a concept of a system for a company that job seekers turn to for finding jobs. The system is supposed to ease the work of the company in question as well as facilitate finding jobs for job seekers. 
 
 **The website was never developed as the main focus was to create an architecture only.**
 
